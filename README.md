@@ -6,3 +6,9 @@ fluxes_computation_and_plots.ipynb contains the analysis of the insitu data to c
 
 All the insitu data are available online as public dataset, refer to the paper for the references.
 daily_pressure.csv contains the only not yet public dataset, it contains daily-average atmospheric pressure data, observed interpolated when observations are missing.
+
+
+
+updated 13/11/2024
+
+MP
